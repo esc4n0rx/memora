@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm add:*)",
+      "Bash(mkdir -p c:/Users/paulo.oliveira/Downloads/memora/lib/supabase)",
+      "Bash(mkdir -p c:/Users/paulo.oliveira/Downloads/memora/sql)",
+      "Bash(pnpm exec:*)",
+      "Bash(xargs grep:*)"
+    ]
+  }
+}
